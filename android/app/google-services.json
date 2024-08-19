@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "263996116320",
+    "firebase_url": "https://newsme-98083-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "newsme-98083",
+    "storage_buc1ket": "newsme-98083.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263996116320:android:2ee2e1dcd49c2a2b856205",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbkR-JXPJNmpwMSRMx9NvwHZ7jOBBI_vM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
